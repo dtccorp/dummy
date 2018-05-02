@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello world
 New text:wq
 
+=======
+hello to all
+>>>>>>> merger
